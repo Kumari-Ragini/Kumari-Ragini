@@ -27,11 +27,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kumari-ragini-3a70bb257/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:itsrcragini2004@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
