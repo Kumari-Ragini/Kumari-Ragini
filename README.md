@@ -27,7 +27,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kumari-ragini-3a70bb257/">
+<a href="https://www.linkedin.com/in/kumari-ragini-3a70bb257/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
