@@ -1,91 +1,183 @@
+<div align="center">
+
 # Hi 👋, I'm Kumari Ragini
 
-## 🚀 DevOps Engineer | Cloud Enthusiast | Automation Learner
+### 🚀 DevOps Engineer | AWS Cloud Enthusiast | Automation Specialist
 
-Passionate DevOps Engineer with hands-on experience in Linux Administration, AWS Cloud, Docker, Jenkins, CI/CD Pipelines, Git, GitHub, and Infrastructure Automation. I enjoy building scalable, automated, and reliable systems that bridge the gap between development and operations.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Linux+Administrator;CI%2FCD+Pipeline+Builder;Docker+%7C+Jenkins+%7C+Kubernetes" />
 
----
-
-## 👩‍💻 About Me
-
-- 🌱 Currently learning **Advanced DevOps & Cloud Technologies**
-- ☁️ Working with **AWS Services**
-- 🐳 Building containerized applications using **Docker**
-- 🔄 Creating **CI/CD Pipelines** using Jenkins
-- 🐧 Linux Administrator with experience in RHEL & Ubuntu
-- 📚 Exploring Kubernetes, Terraform, and Monitoring Tools
-- 🎯 Goal: Become a Cloud & DevOps Architect
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 💫 About Me
 
-### Cloud Platforms
-- AWS (EC2, S3, IAM, VPC, RDS, ELB, Auto Scaling, Route53)
+🔹 Passionate DevOps Engineer focused on Cloud Infrastructure, Automation, and CI/CD.
 
-### DevOps Tools
-- Jenkins
+🔹 Experienced in deploying scalable applications on AWS.
+
+🔹 Skilled in Linux Administration, Containerization, and Infrastructure Automation.
+
+🔹 Currently learning Kubernetes, Terraform, Ansible, and Site Reliability Engineering (SRE).
+
+🔹 Strong interest in Cloud Native Technologies and DevSecOps.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/Kumari-Ragini">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+### ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### 🚀 DevOps Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,github" />
+</p>
+
+### 🐧 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat" />
+</p>
+
+### 💻 Programming & Scripting
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,java,javascript" />
+</p>
+
+### 🌐 Web Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+### 📊 Monitoring & Logging
+
+<p>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</p>
+
+---
+
+# 🚀 DevOps Projects
+
+## 🔹 CI/CD Pipeline Automation
+
+- Jenkins Pipeline
+- Docker Image Build
+- Automated Deployment
+- GitHub Webhooks
+- Rollback Strategy
+
+## 🔹 AWS Highly Available Architecture
+
+- EC2
+- Application Load Balancer
+- Auto Scaling Group
+- Route53
+- RDS
+
+## 🔹 Containerized Application Platform
+
 - Docker
-- Kubernetes
-- Git & GitHub
+- Docker Compose
+- Nginx Reverse Proxy
+
+## 🔹 Infrastructure as Code
+
 - Terraform
-
-### Operating Systems
-- Red Hat Enterprise Linux (RHEL)
-- Ubuntu Linux
-
-### Monitoring & Logging
-- Prometheus
-- Grafana
-
-### Programming & Scripting
-- Python
-- Shell Scripting
-- Bash
-
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
+- AWS Infrastructure Provisioning
+- Modular Architecture
 
 ---
 
-## 🚀 DevOps Projects
+# 📜 Certifications
 
-### 🔹 CI/CD Pipeline Automation
-- Automated application deployment using Jenkins Pipeline.
-- Integrated GitHub with Jenkins.
-- Implemented Docker-based deployments.
+🏆 DevOps with GenAI PromptOps
 
-### 🔹 AWS Highly Available Infrastructure
-- Deployed applications behind Load Balancer.
-- Configured Auto Scaling Groups.
-- Managed IAM roles and security groups.
+🏆 Linux Administration
 
-### 🔹 Containerized Web Application
-- Dockerized application deployment.
-- Multi-container setup using Docker Compose.
+🏆 AWS Cloud Training
+
+🏆 Docker & Kubernetes Fundamentals
 
 ---
 
-## 📜 Certifications
+# 📈 GitHub Analytics
 
-- DevOps with GenAI PromptOps
-- AWS Cloud Fundamentals
-- Linux Administration Training
+<p align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kumari-Ragini&show_icons=true&theme=tokyonight"/>
 
-## 📫 Connect With Me
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumari-Ragini&layout=compact&theme=tokyonight"/>
 
-- GitHub: https://github.com/Kumari-Ragini
-- LinkedIn: www.linkedin.com/in/ragini-kumari-460560284
-- Email: your-email@example.com
+</p>
 
 ---
 
-## ⚡ Fun Fact
+# 🔥 GitHub Streak
 
-> "Automating today to save countless hours tomorrow."
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumari-Ragini&theme=tokyonight" />
+</p>
 
-⭐ Feel free to explore my repositories and connect with me!
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Kumari-Ragini&theme=algolia&column=4" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumari-Ragini&theme=tokyo-night" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Kumari-Ragini&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ "Automate Everything Possible"
+
+</div>
